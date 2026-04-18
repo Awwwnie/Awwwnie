@@ -1,9 +1,15 @@
+<div align="center">
+
 # 👋 Hello, I'm Aditi
 
-Computer Science Student | Backend & AI/ML Developer  
+**Backend & AI/ML Developer**  
 Building systems that solve real-world problems  
 
 > Calm, consistent, and always learning.
+
+</div>
+
+<br>
 
 ---
 
@@ -11,7 +17,7 @@ Building systems that solve real-world problems
 
 I’m a Computer Science undergraduate at Sri Sri University with hands-on experience in machine learning, IoT systems, and application development.
 
-I enjoy working on problems that require both logic and impact — especially in areas like healthcare, automation, and intelligent systems.
+I enjoy working on problems that require both logic and real-world impact — especially in areas like healthcare, automation, and intelligent systems.
 
 I’ve worked on a **Smart India Hackathon hardware prototype**, an **AI-powered resume screening system**, and an **offline healthcare application** designed for rural environments.
 
@@ -24,13 +30,13 @@ I’ve worked on a **Smart India Hackathon hardware prototype**, an **AI-powered
 ## ⚙️ Tech Stack
 
 **Languages**  
-Java • Python • C • JavaScript • SQL  
+Java • Python • C • JavaScript 
 
 **ML / AI**  
 NumPy • Pandas • Scikit-learn • TensorFlow • LightGBM • NLP  
 
 **Tools & Platforms**  
-Git • GitHub • VS Code • Jupyter Notebook • Power BI  
+Git • GitHub • VS Code • IntelliJ IDEA • Jupyter Notebook • Power BI • Canva  
 
 ---
 
@@ -78,11 +84,3 @@ Git • GitHub • VS Code • Jupyter Notebook • Power BI
 <br>
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Awwwnie&theme=tokyo-night&area=true)
-
----
-
-## 🏆 Highlights
-
-- Smart India Hackathon (National Level Participant)  
-- IIT Kharagpur Kshitij Tech Fest Attendee  
-- Consistent academic growth (CGPA: 8.5 → 9.4)  
