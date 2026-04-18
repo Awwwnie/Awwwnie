@@ -1,7 +1,7 @@
 # Hi 👋 I'm Aditi
 
 🚀 Backend-focused developer  
-💡 Interested in APIs, databases, and problem-solving  
+💡 Building APIs, working with databases, and solving real-world problems  
 📚 Currently learning Java Backend + DSA  
 
 ---
@@ -15,25 +15,28 @@
 
 ### 🧠 AI Resume Shortlister
 - Built an ML-based system using NLP and LightGBM  
-- Automatically ranks and classifies resumes  
+- Designed a pipeline for resume classification and ranking  
 - Implemented using Python and Jupyter Notebook  
 
 ### 🏥 Arogya Sathi
-- Emergency healthcare application with SOS ambulance feature  
-- Focused on solving real-world accessibility problems  
+- Designed an emergency healthcare system concept  
+- Includes SOS-based ambulance dispatch functionality  
+- Focused on real-world accessibility challenges  
 
 ### 🐶 Smart Dog Collar
-- IoT-based system for monitoring health of stray dogs  
-- Includes alert system for abnormal conditions  
+- Developed an IoT-based health monitoring system  
+- Includes alert mechanism for abnormal conditions  
 
 ---
 
 ## 🎯 Currently Working On
 - Learning Spring Boot  
-- Practicing DSA (Java)  
-- Improving backend development skills  
+- Strengthening DSA (Java)  
+- Building backend-focused projects  
 
 ---
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Awwwnie&show_icons=true&theme=tokyonight)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Awwwnie&theme=github-dark)
