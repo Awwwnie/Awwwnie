@@ -15,7 +15,7 @@ Building systems that solve real-world problems
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,postman,intellij,python,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,intellij,python,tensorflow)](https://skillicons.dev)
 
 ---
 
