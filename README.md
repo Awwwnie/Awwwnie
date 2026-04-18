@@ -13,6 +13,15 @@ Building systems that solve real-world problems
 
 ---
 
+## 👋 Welcome
+
+- 🚀 Building backend systems step by step  
+- 📚 Learning and improving every day  
+- 💡 Interested in AI + real-world problem solving  
+- 🤝 Open to collaboration and learning  
+
+---
+
 ## ⚙️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,idea,python,tensorflow)](https://skillicons.dev)
@@ -69,4 +78,14 @@ Building systems that solve real-world problems
 
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awwwnie&layout=compact&theme=tokyonight)
+
+<br>
+
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Awwwnie&theme=tokyo-night&area=true)
+
+---
+
+## 🏆 Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Awwwnie&theme=darkhub&no-frame=true&row=1)
