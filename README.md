@@ -39,4 +39,6 @@
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Awwwnie&show_icons=true&theme=tokyonight)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Awwwnie&theme=github-dark)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Awwwnie&theme=tokyo-night&area=true)
+
+![Streak](https://streak-stats.demolab.com?user=Awwwnie&theme=tokyonight)
