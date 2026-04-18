@@ -1,46 +1,69 @@
-#                                                                  👋 Hey, I'm Aditi
+# 👋 Hello, I'm Aditi
 
-💻 Backend Developer in progress  
-⚙️ Building APIs, exploring systems, and solving real-world problems  
-📚 Currently mastering Java + DSA  
+Computer Science Student | Backend & AI/ML Developer  
+Building systems that solve real-world problems  
 
-> Build → Break → Fix → Repeat
+> Calm, consistent, and always learning.
 
 ---
 
-## 🧠 My Focus
-- Backend Development (Java)
-- Data Structures & Algorithms  
-- Real-world problem solving through projects  
+## 🧩 About Me
+
+I’m a Computer Science undergraduate at Sri Sri University with hands-on experience in machine learning, IoT systems, and application development.
+
+I enjoy working on problems that require both logic and impact — especially in areas like healthcare, automation, and intelligent systems.
+
+I’ve worked on a **Smart India Hackathon hardware prototype**, an **AI-powered resume screening system**, and an **offline healthcare application** designed for rural environments.
+
+- 💻 Focus: Backend Development + AI/ML  
+- 🧠 Strength: Structured thinking + problem solving  
+- 🌱 Currently learning: Java Backend, DSA, System Design  
 
 ---
 
 ## ⚙️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=java,python,git,github)
+
+**Languages**  
+Java • Python • C • JavaScript • SQL  
+
+**ML / AI**  
+NumPy • Pandas • Scikit-learn • TensorFlow • LightGBM • NLP  
+
+**Tools & Platforms**  
+Git • GitHub • VS Code • Jupyter Notebook • Power BI  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
+
+### 🐶 Smart Stray Dog Collar (Smart India Hackathon)
+- IoT-based system to monitor and classify health conditions of stray dogs  
+- Multi-role application for public, veterinarians, and volunteers  
+- Integrated solar-powered charging for sustainability  
+
+---
 
 ### 🧠 AI Resume Shortlister
-- ML-based system using NLP and LightGBM  
-- Designed pipeline for resume classification and ranking  
-- Built using Python and Jupyter Notebook  
-
-### 🏥 Arogya Sathi
-- Emergency healthcare solution with SOS ambulance feature  
-- Focused on real-world accessibility challenges  
-
-### 🐶 Smart Dog Collar
-- IoT-based health monitoring system  
-- Includes alert system for abnormal conditions  
+- End-to-end ML pipeline for resume ranking and classification  
+- Applied NLP preprocessing, feature extraction, and scoring  
+- Optimized using LightGBM techniques (GOSS, EFB)  
 
 ---
 
-## 🎯 Currently Working On
-- Learning Spring Boot  
-- Strengthening DSA (Java)  
+### 🏥 Arogya Sathi
+- Offline-first healthcare app for rural accessibility  
+- SOS-based emergency system for ambulance dispatch  
+- Designed for low-network environments  
+
+---
+
+## 📈 Growth & Work Ethic
+
+- Practicing DSA consistently  
 - Building backend-focused projects  
+- Learning by doing and improving incrementally  
+
+> I believe in building strong fundamentals first.
 
 ---
 
@@ -58,4 +81,8 @@
 
 ---
 
+## 🏆 Highlights
 
+- Smart India Hackathon (National Level Participant)  
+- IIT Kharagpur Kshitij Tech Fest Attendee  
+- Consistent academic growth (CGPA: 8.5 → 9.4)  
