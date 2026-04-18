@@ -13,30 +13,9 @@ Building systems that solve real-world problems
 
 ---
 
-## 🧩 About Me
-
-I’m a Computer Science undergraduate at Sri Sri University with hands-on experience in machine learning, IoT systems, and application development.
-
-I enjoy working on problems that require both logic and real-world impact — especially in areas like healthcare, automation, and intelligent systems.
-
-I’ve worked on a **Smart India Hackathon hardware prototype**, an **AI-powered resume screening system**, and an **offline healthcare application** designed for rural environments.
-
-- 💻 Focus: Backend Development + AI/ML  
-- 🧠 Strength: Structured thinking + problem solving  
-- 🌱 Currently learning: Java Backend, DSA, System Design  
-
----
-
 ## ⚙️ Tech Stack
 
-**Languages**  
-Java • Python • C • JavaScript • SQL  
-
-**ML / AI**  
-NumPy • Pandas • Scikit-learn • TensorFlow • LightGBM • NLP  
-
-**Tools & Platforms**  
-Git • GitHub • VS Code • IntelliJ IDEA • Jupyter Notebook • Power BI • Canva  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,postman,intellij,python,tensorflow)](https://skillicons.dev)
 
 ---
 
@@ -63,13 +42,11 @@ Git • GitHub • VS Code • IntelliJ IDEA • Jupyter Notebook • Power BI �
 
 ---
 
-## 📈 Growth & Work Ethic
+## 📈 Currently
 
-- Practicing DSA consistently  
-- Building backend-focused projects  
-- Learning by doing and improving incrementally  
-
-<sub>I believe in building strong fundamentals first.</sub>
+- Learning Spring Boot and core Java 
+- Practicing DSA daily  
+- Building backend projects  
 
 ---
 
