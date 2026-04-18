@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Aditi
 
-![Profile Views](https://komarev.com/ghpvc/?username=Awwwnie&color=blue)
-
 💻 Backend Developer in progress  
 ⚙️ Building APIs, exploring systems, and solving real-world problems  
 📚 Currently mastering Java + DSA  
