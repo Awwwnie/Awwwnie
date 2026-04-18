@@ -5,7 +5,7 @@
 **Backend & AI/ML Developer**  
 Building systems that solve real-world problems  
 
-> Calm, consistent, and always learning.
+<sub>Calm, consistent, and always learning.</sub>
 
 </div>
 
@@ -30,7 +30,7 @@ I’ve worked on a **Smart India Hackathon hardware prototype**, an **AI-powered
 ## ⚙️ Tech Stack
 
 **Languages**  
-Java • Python • C • JavaScript 
+Java • Python • C • JavaScript • SQL  
 
 **ML / AI**  
 NumPy • Pandas • Scikit-learn • TensorFlow • LightGBM • NLP  
@@ -69,7 +69,7 @@ Git • GitHub • VS Code • IntelliJ IDEA • Jupyter Notebook • Power BI �
 - Building backend-focused projects  
 - Learning by doing and improving incrementally  
 
-> I believe in building strong fundamentals first.
+<sub>I believe in building strong fundamentals first.</sub>
 
 ---
 
