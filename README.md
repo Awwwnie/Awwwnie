@@ -1,8 +1,19 @@
-# Hi 👋 I'm Aditi
+# 👋 Hey, I'm Aditi
 
-🚀 Backend-focused developer  
-💡 Building APIs, working with databases, and solving real-world problems  
-📚 Currently learning Java Backend + DSA  
+![Profile Views](https://komarev.com/ghpvc/?username=Awwwnie&color=blue)
+
+💻 Backend Developer in progress  
+⚙️ Building APIs, exploring systems, and solving real-world problems  
+📚 Currently mastering Java + DSA  
+
+> Build → Break → Fix → Repeat
+
+---
+
+## 🧠 My Focus
+- Backend Development (Java)
+- Data Structures & Algorithms  
+- Real-world problem solving through projects  
 
 ---
 
@@ -14,18 +25,17 @@
 ## 🚀 Featured Projects
 
 ### 🧠 AI Resume Shortlister
-- Built an ML-based system using NLP and LightGBM  
-- Designed a pipeline for resume classification and ranking  
-- Implemented using Python and Jupyter Notebook  
+- ML-based system using NLP and LightGBM  
+- Designed pipeline for resume classification and ranking  
+- Built using Python and Jupyter Notebook  
 
 ### 🏥 Arogya Sathi
-- Designed an emergency healthcare system concept  
-- Includes SOS-based ambulance dispatch functionality  
+- Emergency healthcare solution with SOS ambulance feature  
 - Focused on real-world accessibility challenges  
 
 ### 🐶 Smart Dog Collar
-- Developed an IoT-based health monitoring system  
-- Includes alert mechanism for abnormal conditions  
+- IoT-based health monitoring system  
+- Includes alert system for abnormal conditions  
 
 ---
 
@@ -36,9 +46,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Awwwnie&show_icons=true&theme=tokyonight)
+
+<br>
+
+![Streak](https://streak-stats.demolab.com?user=Awwwnie&theme=tokyonight)
+
+<br>
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Awwwnie&theme=tokyo-night&area=true)
 
-![Streak](https://streak-stats.demolab.com?user=Awwwnie&theme=tokyonight)
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- Email: aditi.tripathy2020@gmail.com
