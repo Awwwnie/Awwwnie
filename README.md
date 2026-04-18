@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aditi
+#                                                                  👋 Hey, I'm Aditi
 
 💻 Backend Developer in progress  
 ⚙️ Building APIs, exploring systems, and solving real-world problems  
@@ -58,6 +58,4 @@
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/YOUR-LINK  
-- Email: aditi.tripathy2020@gmail.com
+
