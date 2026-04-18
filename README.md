@@ -15,7 +15,16 @@ Building systems that solve real-world problems
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,intellij,python,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,idea,python,tensorflow)](https://skillicons.dev)
+
+---
+
+## ⚡ Status
+
+![Learning](https://img.shields.io/badge/currently-learning%20Spring%20Boot-blue?style=for-the-badge)
+![DSA](https://img.shields.io/badge/practicing-DSA-green?style=for-the-badge)
+![Backend](https://img.shields.io/badge/focus-backend-orange?style=for-the-badge)
+![Coding](https://img.shields.io/badge/coding-Java-red?style=for-the-badge)
 
 ---
 
@@ -44,7 +53,7 @@ Building systems that solve real-world problems
 
 ## 📈 Currently
 
-- Learning Spring Boot and core Java 
+- Learning Spring Boot and core Java  
 - Practicing DSA daily  
 - Building backend projects  
 
